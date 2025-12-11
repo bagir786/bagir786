@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **Integarting AI into mobile applications**
 
-- 👯 I’m looking to collaborate on **iOS & Android project**
+- 👯 I’m looking to collaborate on **Android project & iOS  **
 
 - 👨‍💻 All of my projects are available at [https://muhamadhafiudinbagir.netlify.app/](https://muhamadhafiudinbagir.netlify.app/)
 
