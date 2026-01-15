@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Android project & iOS  **
 
-- 👨‍💻 All of my projects are available at [https://muhamadhafiudinbagir.netlify.app/](https://muhamadhafiudinbagir.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://muhamadhafiudinbagir.netlify.app/](https://mhafiudinbagir.netlify.app/)
 
 - 📫 How to reach me **hafiudinbagir@gmail.com**
 
